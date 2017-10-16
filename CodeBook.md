@@ -1,7 +1,6 @@
----
-title: "CodeBook"
-output: html_document
----
+CodeBook
+----
+
 
 ## Data
 
