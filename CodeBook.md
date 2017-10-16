@@ -115,7 +115,7 @@ The following changes were applied to the source data:
 2. The data for mean and standard deviation were extracted for each measurement
 3. The activity identifiers were applied to the dataset
 4. Variable names were cleaned up
-    i) special characters were removed
-    ii) ```t``` and ```f``` were translated to ```time``` and ```freq```, per appropriate domain
-    iii) cases were corrected and abbreviations were clarified
+    i. special characters were removed
+    ii. ```t``` and ```f``` were translated to ```time``` and ```freq```, per appropriate domain
+    iii. cases were corrected and abbreviations were clarified
 5. Another data set was created with the average of each variable for each activity and each subject.
